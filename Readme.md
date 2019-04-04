@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ASPxPivotGrid_SaveLoadCollapsedState/Default.aspx) (VB: [Default.aspx](./VB/ASPxPivotGrid_SaveLoadCollapsedState/Default.aspx))
-* [Default.aspx.cs](./CS/ASPxPivotGrid_SaveLoadCollapsedState/Default.aspx.cs) (VB: [Default.aspx](./VB/ASPxPivotGrid_SaveLoadCollapsedState/Default.aspx))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_SaveLoadCollapsedState/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SaveLoadCollapsedState/Default.aspx.vb))
 <!-- default file list end -->
 # Save/load field values' collapsed states together with pivot grid's layout
 
