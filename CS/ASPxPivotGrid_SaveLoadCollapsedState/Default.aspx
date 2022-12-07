@@ -1,10 +1,10 @@
 <%@ Page Language="C#" AutoEventWireup="true" Codebehind="Default.aspx.cs"
     Inherits="ASPxPivotGrid_SaveLoadCollapsedState._Default" %>
-<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0,
+<%@ Register Assembly="DevExpress.Web.v15.1, Version=15.1.15.0,
     Culture=neutral, PublicKeyToken=b88d1754d700e49a"
-    Namespace="DevExpress.Web.ASPxEditors"
+    Namespace="DevExpress.Web"
     TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v13.1, Version=13.1.14.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v15.1, Version=15.1.15.0,
     Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxPivotGrid"
     TagPrefix="dx" %>

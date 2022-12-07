@@ -38,7 +38,7 @@ Namespace ASPxPivotGrid_SaveLoadCollapsedState
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnSave As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnSave As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' btnLoad control.
@@ -47,7 +47,7 @@ Namespace ASPxPivotGrid_SaveLoadCollapsedState
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnLoad As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnLoad As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' btnClear control.
@@ -56,7 +56,7 @@ Namespace ASPxPivotGrid_SaveLoadCollapsedState
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnClear As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnClear As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' ASPxPivotGrid1 control.
